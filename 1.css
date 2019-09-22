@@ -709,26 +709,12 @@ margin-bottom: 30px;
 .parallax-section {
   z-index: -1;
   clear: both;
-  background-image: url('https://triper.dexignlab.com/xhtml/images/background/bg3.jpg') background-size:cover" data-0="background-position:0px 0px;" data-end="background-position:0px -100px;
-background-size:cover
-	opacity: 0.5;
-	background: #000;
-	
-	
-	
-	
-	
-	
-	
+  background-image: url('https://4.bp.blogspot.com/-O9HYuWCqlp4/XYd9v2ABEDI/AAAAAAAACQQ/bndJYyTiws4FmzwhcqFi_dqdwTxoyeTpgCLcBGAsYHQ/s1600/121.jpg');
+  background-repeat: repeat;
+  background-attachment: fixed;
+  background-position: center center;
 }
 
-.overlay-black-light:after, .overlay-black-middle:after, .overlay-black-dark:after {
-    background: #000;
-}
-
-.overlay-black-middle:after {
-    opacity: 0.5;
-}
 .parallax2 {
   background-image: url('http://2.bp.blogspot.com/-KEtTHF6ylRI/VmcReg8JeCI/AAAAAAAAAmk/IoYID5sVz1c/s1600/parallax2.jpg');
 }
