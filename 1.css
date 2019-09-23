@@ -299,6 +299,34 @@ body {
 	/*padding-right: 0px;*/
 }
 
+.gridl {
+	width: 100%;
+	max-width: 100%;
+	min-width: 755px;
+	margin: 0 auto;
+	overflow: hidden;
+}
+
+.gridl:after {
+	content: "";
+	display: table;
+	clear: both;
+}
+
+
+
+
+.gridl-pad {
+	padding: 0px 0 0px 0px;
+}
+
+.gridl-pad > [class*='col-']:last-of-type {
+	padding-right: 0px;
+}
+
+
+
+
 .grid {
 	width: 100%;
 	max-width: 1140px;
