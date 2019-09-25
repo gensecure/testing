@@ -467,7 +467,7 @@ margin-right:365px;
 #content{
 position:relative;
 width:100%;
-float:center;
+float:left;
 }
 .descriptionwrapper .description {
     color: #fff;
