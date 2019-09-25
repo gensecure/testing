@@ -753,7 +753,7 @@ margin-bottom: 30px;
 
 .top-slider .content-header, .home-slider {
   margin: 0 auto;
-  text-align: center;
+  text-align: right;
 }
 
 .parallax-section .content-header, .home-slider .content-header {
@@ -761,7 +761,7 @@ margin-bottom: 30px;
 }
 
 .parallax2 .content {
-  padding: 100px 0;
+  padding: 150px 0;
 }
 
 .top-slider .content-header {
