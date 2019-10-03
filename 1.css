@@ -543,7 +543,7 @@ margin-bottom: 30px;
   position: fixed;
   z-index: 1000;
   width: 100%;
-  padding: 23px 0;
+  padding: 3px 0;
 /*transition*/
   -webkit-transition: all .15s linear;
      -moz-transition: all .15s linear;
@@ -1467,7 +1467,7 @@ Footer CSS
     background: #2C2D31;
     color: #FFFFFF;
     padding-top: 115px;
-    padding-bottom: 90px;
+
 }
 .footer{
 float:left;
