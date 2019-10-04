@@ -124,9 +124,6 @@ blockquote p {
 .curveMapDown {
   margin-top: -238px;
 }
-td {
-    border-top: 1px solid #ededed;
-    padding: 6px 10px 6px 0;
 
 .curveGrey {
   fill: #ECF0F1;
@@ -944,6 +941,12 @@ Blog Post CSS
 .recent-work:hover img {
   opacity: .35;
 }
+
+
+td {
+    border-top: 1px solid #ededed;
+    padding: 6px 10px 6px 0;
+
 
 .overlay {
     position: absolute;
