@@ -943,10 +943,6 @@ Blog Post CSS
 }
 
 
-td {
-    border-top: 1px solid #ededed;
-    padding: 6px 10px 6px 0;
-
 
 .overlay {
     position: absolute;
@@ -2682,3 +2678,7 @@ a.home-link {
     -moz-border-radius: 3px;
     border-radius: 3px;
 }
+
+td {
+    border-top: 1px solid #ededed;
+    padding: 6px 10px 6px 0;
