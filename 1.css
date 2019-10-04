@@ -124,6 +124,9 @@ blockquote p {
 .curveMapDown {
   margin-top: -238px;
 }
+td {
+    border-top: 1px solid #ededed;
+    padding: 6px 10px 6px 0;
 
 .curveGrey {
   fill: #ECF0F1;
