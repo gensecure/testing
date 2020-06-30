@@ -1651,11 +1651,13 @@ Responsive styles
 ******************************************/
 
 @media handheld, only screen and (max-width: 1200px) {
-#top-header {
-    position: absolute;
-    padding: 8px 0;
+  #top-header {
+    padding: 15px 20px;
   }
 
+element.style {
+    top: 0px;
+}
   #price-tables #plans .plan {
     width: 49%;
     margin: 0 2% 20px 0;
