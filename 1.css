@@ -428,9 +428,6 @@ body {
 	width: 58.33%
 }
 
-.element.style {
-    top: 0px;
-}
 @media handheld, only screen and (max-width: 767px) {
 
 	
@@ -547,7 +544,6 @@ margin-bottom: 30px;
   z-index: 1000;
   width: 100%;
   padding: 3px 0;
-	
 /*transition*/
   -webkit-transition: all .15s linear;
      -moz-transition: all .15s linear;
@@ -1657,7 +1653,6 @@ Responsive styles
   #top-header {
     padding: 15px 20px;
   }
-
 
   #price-tables #plans .plan {
     width: 49%;
